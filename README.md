@@ -36,10 +36,7 @@ As fronteiras também podem ser selecionadas para consultar diretamente outro pa
 ## ▶️ Como executar
 
 1. Clone este repositório:
-
-```bash
-git clone URL_DO_REPOSITORIO
-```
+git clone https://github.com/laraisabelysiq/countries-explorer.git
 
 2. Abra a pasta do projeto no Visual Studio Code.
 
